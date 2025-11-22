@@ -68,7 +68,7 @@ export default function Footer() {
 
                 <Row>
                     <Col className="text-center text-secondary">
-                        <small>&copy; {new Date().getFullYear()} Rein Mark. All Rights Reserved. Built with Next.js & Bootstrap.</small>
+                        <small>&copy; {new Date().getFullYear()} 535240194 - Rein Mark. All Rights Reserved. Built with Next.js & Bootstrap.</small>
                     </Col>
                 </Row>
             </Container>

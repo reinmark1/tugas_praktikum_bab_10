@@ -28,10 +28,13 @@ const HeroSection = () => {
                             <span className="dot bg-success rounded-circle me-2" style={{width:'8px', height:'8px'}}></span>
                             <small className="text-secondary fw-bold text-uppercase" style={{fontSize:'0.75rem'}}>Tech & Leadership Enthusiast</small>
                         </div>
-                        <h1 className="display-3 fw-bold text-white mb-3 lh-sm">
+                        <h1 className="display-3 fw-bold text-white mb-0 lh-sm">
                             Hi, I'm <br />
                             <span className="text-gradient">Rein Mark</span>
                         </h1>
+                        <p className="text-secondary fs-4 fw-bold mb-4 mt-2" style={{ letterSpacing: '2px' }}>
+                            535240194
+                        </p>
                         <h4 className="fw-normal text-light mb-4 d-flex align-items-center gap-2 flex-wrap">
                             <span>Tech Enthusiast</span>
                             <span className="text-secondary">|</span> 
